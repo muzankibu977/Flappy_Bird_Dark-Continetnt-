@@ -8,8 +8,6 @@ A **spooky, challenging**, and immersive reimagining of the classic Flappy Bird 
 
 This version adds dark themes, coins, moving pipes, sound effects, settings, instructions, and high scores. Perfect for those who want a nostalgic yet fresh experience with a twist!
 
-![Game Screenshot](https://github.com/user-attachments/assets/c5a3650a-fcb4-494a-80f2-16b4b29f88cd)
-
 ---
 
 ## 🔧 Features
