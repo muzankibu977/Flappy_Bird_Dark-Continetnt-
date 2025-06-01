@@ -6,8 +6,8 @@
 
 A **spooky, challenging**, and immersive reimagining of the classic Flappy Bird game built with **Python** and **Pygame**.
 
-This version adds dark themes, coins, moving pipes, sound effects, settings, instructions, and high scores.
-Perfect for those who want a nostalgic yet fresh experience with a twist!
+This version adds dark themes, coins, moving pipes, sound effects, settings, instructions, and high scores. Perfect for those who want a nostalgic yet fresh experience with a twist!
+![Screenshot 2025-05-21 100738](https://github.com/user-attachments/assets/887e332b-436d-4a90-a5ee-676fedff5bc0)  ![Screenshot 2025-05-20 212741](https://github.com/user-attachments/assets/bc1bd5d6-6db7-40f8-8f91-98ccabc15d2d)  ![Screenshot 2025-05-21 100802](https://github.com/user-attachments/assets/83497a2a-5c31-40fa-a6ec-5144f491a537)
 
 ---
 
